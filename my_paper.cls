@@ -2,7 +2,6 @@
 \ProvidesClass{my_paper}[2021/08/17 My custom CV class] 
 \LoadClass[12pt]{article}
 
-\newcommand{\lunwenbiaoti}{\fontsize{15.75pt}{0}\heiti 基于线性规划的最佳企业订购、转运方案研究}
 \newcommand{\zhaiyao}{\fontsize{14pt}{0}\heiti 摘要}
 
 \RequirePackage{titlesec}
